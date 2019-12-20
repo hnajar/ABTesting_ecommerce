@@ -1,4 +1,4 @@
-# ABTesting_ecommerce
+# A/B Testing_ecommerce
 The project shows a practice on p_value calculation, AB testing and linear regression.
 This project aims at discovering if people are interested in converting to a new webpage after changing a feature or not. 
 I define the hypotheses and tried to compare different approaches to see how they differ in conclusion. 
